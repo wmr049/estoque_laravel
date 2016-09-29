@@ -86,8 +86,8 @@ return [
 	*/
 
 	'custom' => [
-		'attribute-name' => [
-			'rule-name' => 'custom-message',
+    'nome' => [
+        	'required' => 'O :attribute não pode estar em branco.',
 		],
 	],
 
